@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<T3DataStructure>
+  <meta>
+    <langDisable>1</langDisable>
+  </meta>
+  <ROOT>
+    <TCEforms>
+      <sheetTitle></sheetTitle>
+    </TCEforms>
+    <type>array</type>
+    <el>
+      <sleep>
+        <TCEforms>
+          <label>Time to sleep in seconds</label>
+          <config>
+            <type>input</type>
+            <size>10</size>
+            <eval>int</eval>
+            <default>0</default>
+          </config>
+        </TCEforms>
+      </sleep>
+    </el>
+  </ROOT>
+</T3DataStructure>
